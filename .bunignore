@@ -1,2 +1,2 @@
-*
-# Disable Bun
+# Disables Bun so Render uses Node.js
+
